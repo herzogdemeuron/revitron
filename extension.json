@@ -3,7 +3,7 @@
     "default_enabled": "True",
     "type": "lib",
     "rocket_mode_compatible": "True",
-    "name": "revitron",
+    "name": "hdm-revitron",
     "description": "A Revit API wrapper",
     "author": "Marc Anton Dahmen",
     "author_profile": "https://github.com/revitron",
