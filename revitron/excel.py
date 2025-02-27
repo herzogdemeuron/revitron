@@ -7,9 +7,7 @@ The following example demonstrates how to write data to table cells in a sheet c
 	sheet.setCell(5, 1, 'Value')
 """
 import clr
-
-clr.AddReference("Microsoft.Office.Interop.Excel")
-import Microsoft.Office.Interop.Excel as Excel
+from pyrevit.interop import xl as Excel
 
 
 class ExcelWorkbook:
